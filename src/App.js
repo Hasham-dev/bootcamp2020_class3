@@ -4,7 +4,7 @@ function App() {
   
     return(
       <div>
-      <Dinner todayDish="Chicken Karai" todaySweet="Kheer"/>
+      <Dinner todayDish="Chicken Karai" todaySweet="Kheer & Jalebi"/>
       <hr/>
       <Dinner todayDish="Daal Chawal" todaySweet="Gajar ka halwa"/>
       <hr/>
